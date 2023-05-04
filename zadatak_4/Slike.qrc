@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/slike">
+        <file>Screenshot from 2023-05-04 11-19-36.png</file>
+        <file>Screenshot from 2023-05-04 11-20-02.png</file>
+    </qresource>
+</RCC>

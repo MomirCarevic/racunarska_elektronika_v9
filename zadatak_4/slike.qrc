@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/slike">
+        <file>on.png</file>
+        <file>off.png</file>
+    </qresource>
+</RCC>
